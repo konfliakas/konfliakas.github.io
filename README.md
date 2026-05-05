@@ -1,9 +1,10 @@
 # Data Engineer
 
 ## Work Experience
--one
--two
--three
+- one
+- two
+- three
+
 
 
 ## Education
@@ -12,3 +13,7 @@
 - three
 
 ##Certificates
+- one
+- two
+- three
+- four
